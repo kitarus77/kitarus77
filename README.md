@@ -10,8 +10,15 @@
 - 🔭 Actualmente trabajando con **Java 21, Spring Boot, Angular, Kafka y OpenAPI**  
 - 💡 Experiencia en **backend, frontend y DevOps**  
 - 🏆 Premiado en proyectos de innovación en robótica (Seat Factory 2015 y 2016)  
-- 🌱 Intereses: Open Source, kitesurf, karting y videojuegos  
-- 📫 Contacto: [oscar.mendez.tierra@gmail.com](mailto:oscar.mendez.tierra@gmail.com)  
+- 🌱 Intereses: Open Source, kitesurf, karting y videojuegos
+<br>
+<h3 align="center">Conecta conmigo:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/oscarmendez87" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oscarmendez87" height="40" width="50" /></a>
+<a href="https://handsomely-fork-6e1.notion.site/OSCAR-M-NDEZ-DEVELOPER-2701647b0bca803f9b8ee2240bc75383" target="_blank"><img align="center" src="https://hamiltonrising.com/wp-content/uploads/2018/09/website-logo-png.png" height="60" width="60" /></a>  
+<!--<a href="https://www.instagram.com/danielespanadero/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/danielespanadero/" height="40" width="50" /></a>
+<a href="https://www.youtube.com/channel/UCytSoY4twW6E-OoIPaP275g" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucytsoy4tww6e-ooipap275g" height="40" width="50" /></a>-->
+</p>
 
 ---
 
@@ -52,10 +59,5 @@
 
 - **Docker** · **Git** · **Jenkins** · **SonarQube** · **Jira**  
 - **Kafka** · **RabbitMQ** · **OpenAPI**  
-
----
-
-## 🌐 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscarmendez87)[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://handsomely-fork-6e1.notion.site/OSCAR-M-NDEZ-DEVELOPER-2701647b0bca803f9b8ee2240bc75383)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscar.mendez.tierra@gmail.com)  
 
 ---
