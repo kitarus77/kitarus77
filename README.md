@@ -55,12 +55,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-![Óscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitarus77&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitarus77&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-linkedin)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kitarus77)  
