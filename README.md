@@ -56,8 +56,6 @@
 ---
 
 ## 🌐 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-linkedin)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kitarus77)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscar.mendez.tierra@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscarmendez87)[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://handsomely-fork-6e1.notion.site/OSCAR-M-NDEZ-DEVELOPER-2701647b0bca803f9b8ee2240bc75383)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscar.mendez.tierra@gmail.com)  
 
 ---
