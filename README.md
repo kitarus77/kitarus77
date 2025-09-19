@@ -10,6 +10,8 @@ Con el paso del tiempo voy a ir añadiendo tutoriales sobre implementaciones, ar
 
 A continuación os dejo un pequeño índice de las wikis de mis repositorios, donde he añadido todos los tutoriales. La idea es que cada tutorial tenga su propia rama en el repositorio, por ejemplo "tutorial/jwt-spring-security". Así además del ejemplo de la wiki dispondreis del código fuente del tuto.
 
+👏 Si no encontrais la rama subida es porque no he tenido aún tiempo, por favor os pido paciencia o que con el propio ejemplo del tuto intenteis montarlo que seguro podreis sin problemas.
+
 - Implementaciones -> [Wiki implementaciones](https://github.com/kitarus77/implementaciones/wiki)
 - Patrones de diseño -> [Wiki Patrones de diseño](https://github.com/kitarus77/patrones-disenio/wiki)
 - Clean code -> [Wiki Clean code](https://github.com/kitarus77/clean-code/wiki)
