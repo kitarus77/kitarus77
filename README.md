@@ -6,7 +6,10 @@
 ---
 
 ## 📚 Indice de tutoriales
-Con el paso del tiempo voy a ir añadiendo tutoriales sobre implementaciones, arquitectura, buenas prácticas y todo lo que se me vaya ocurriendo que pueda ayudar a la gente a adquirir un buen nivel de programación y unas buenas bases para poder ampliar o reforzar sus conocimientos.
+Con el paso del tiempo voy a ir añadiendo tutoriales sobre implementaciones, arquitectura, buenas prácticas y todo lo que se me vaya ocurriendo, que pueda ayudar a la gente a adquirir un buen nivel de programación y unas buenas bases para poder ampliar o reforzar sus conocimientos.
+
+A continuación os dejo un pequeño índice de las wikis de mis repositorios, donde he añadido todos los tutoriales. La idea es que cada tutorial tenga su propia rama en el repositorio, por ejemplo "tutorial/jwt-spring-security". Así además del ejemplo de la wiki dispondreis del código fuente del tuto.
+
 - Implementaciones -> [Wiki implementaciones](https://github.com/kitarus77/implementaciones/wiki)
 - Patrones de diseño -> [Wiki Patrones de diseño](https://github.com/kitarus77/patrones-disenio/wiki)
 - Clean code -> [Wiki Clean code](https://github.com/kitarus77/clean-code/wiki)
