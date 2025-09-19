@@ -1,7 +1,16 @@
 # 👋 Hola, soy Óscar Méndez Tierra
 
 💻 **Fullstack Developer** con experiencia en **arquitectura hexagonal, DDD y Clean Architecture**.  
-🚀 Apasionado por crear software robusto, escalable y de calidad.  
+🚀 Apasionado por crear software robusto, escalable y de calidad.
+
+---
+
+## 📚 Indice de tutoriales
+Con el paso del tiempo voy a ir añadiendo tutoriales sobre implementaciones, arquitectura, buenas prácticas y todo lo que se me vaya ocurriendo que pueda ayudar a la gente a adquirir un buen nivel de programación y unas buenas bases para poder ampliar o reforzar sus conocimientos.
+- Implementaciones -> [Wiki implementaciones](https://github.com/kitarus77/implementaciones/wiki)
+- Patrones de diseño -> [Wiki Patrones de diseño](https://github.com/kitarus77/patrones-disenio/wiki)
+- Clean code -> [Wiki Clean code](https://github.com/kitarus77/clean-code/wiki)
+- Arquitecturas -> [Wiki Arquitecturas](https://github.com/kitarus77/arquitecturas/wiki)
 
 ---
 
